@@ -1,5 +1,7 @@
 # Ajaia Docs
 
+> 🌐 **Live Demo:** [https://ajaia-docs-ten-theta.vercel.app](https://ajaia-docs-ten-theta.vercel.app/)
+
 A lightweight, collaborative document editor built with **Next.js 14 (App Router)**, **Tiptap**, and **Supabase PostgreSQL**, optimized for zero-config serverless deployment on Vercel.
 
 ---
@@ -171,8 +173,10 @@ erDiagram
 
 ## Deployment to Vercel
 
+**Live Deployment URL:** [https://ajaia-docs-ten-theta.vercel.app](https://ajaia-docs-ten-theta.vercel.app/)
+
 1. Push the code to a GitHub / GitLab repository.
 2. Import the project into **[Vercel](https://vercel.com)**.
 3. In **Project Settings → Environment Variables**, add:
    - `DATABASE_URL`: Your Supabase **Transaction pooler** connection string (port `6543`).
-4. Deploy. Vercel will build the application using `npm run build` and launch serverless route handlers.
+4. Deploy. Vercel builds the application using `npm run build` and serves the serverless route handlers.

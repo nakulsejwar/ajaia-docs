@@ -5,8 +5,9 @@
 - **[README.md](file:///README.md)**: Local setup, database migration, environment variables, test accounts, and Vercel deployment instructions.
 - **[ARCHITECTURE.md](file:///ARCHITECTURE.md)**: Architecture notes explaining stack choices, tradeoffs, access control, and prioritization.
 - **[AI_WORKFLOW.md](file:///AI_WORKFLOW.md)**: Practical AI usage details covering tools, acceleration points, rejected approaches, and validation methods.
+- **[screenshots/ui_overview.jpg](file:///screenshots/ui_overview.jpg)**: Visual overview of Auth, Dashboard, and Editor UI.
 - **[video.txt](file:///video.txt)**: Walkthrough video link placeholder.
-- **Live URL**: `<add your deployed Vercel URL here>`
+- **Live URL**: [https://ajaia-docs-ten-theta.vercel.app](https://ajaia-docs-ten-theta.vercel.app/)
 
 ---
 
